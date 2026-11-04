@@ -4,7 +4,7 @@ version = "1.0.0"
 edition = "2024"
 description = "Jira CLI for attachments, Markdown as ADF, JQL search, and transitions, sharing acli's login"
 license = "MIT"
-repository = "https://github.com/nmoinvaz/jira-arriba"
+repository = "https://github.com/arriba-tools/jira"
 
 [dependencies]
 anyhow = "1.0"

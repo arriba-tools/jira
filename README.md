@@ -1,8 +1,8 @@
 # jira-arriba
 
-[![Build](https://github.com/nmoinvaz/jira-arriba/actions/workflows/build.yml/badge.svg)](https://github.com/nmoinvaz/jira-arriba/actions/workflows/build.yml)
-[![Lint](https://github.com/nmoinvaz/jira-arriba/actions/workflows/lint.yml/badge.svg)](https://github.com/nmoinvaz/jira-arriba/actions/workflows/lint.yml)
-[![codecov](https://codecov.io/gh/nmoinvaz/jira-arriba/graph/badge.svg)](https://codecov.io/gh/nmoinvaz/jira-arriba)
+[![Build](https://github.com/arriba-tools/jira/actions/workflows/build.yml/badge.svg)](https://github.com/arriba-tools/jira/actions/workflows/build.yml)
+[![Lint](https://github.com/arriba-tools/jira/actions/workflows/lint.yml/badge.svg)](https://github.com/arriba-tools/jira/actions/workflows/lint.yml)
+[![codecov](https://codecov.io/gh/arriba-tools/jira/graph/badge.svg)](https://codecov.io/gh/arriba-tools/jira)
 
 A Jira CLI for the chores [acli](https://developer.atlassian.com/cloud/acli/) doesn't cover:
 downloading attachments, writing comments and descriptions in Markdown, reading them back as
@@ -13,11 +13,11 @@ agents can drive the same workflows a person runs by hand.
 
 ## Install
 
-Download a binary from the [releases](https://github.com/nmoinvaz/jira-arriba/releases) and put
+Download a binary from the [releases](https://github.com/arriba-tools/jira/releases) and put
 it on your `PATH`, or build it from source:
 
 ```
-cargo install --git https://github.com/nmoinvaz/jira-arriba
+cargo install --git https://github.com/arriba-tools/jira
 ```
 
 ## Use with Claude
